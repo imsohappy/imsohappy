@@ -1,0 +1,13 @@
+
+<? xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+<title> imsohappy </title>
+<description></description>
+<link>http://www.yourweb.com</link>
+<item>
+<title> wolverine </title>
+<description> Enjoy </description>
+<link>http://www.yourweb.com</link>
+</channel>
+</rss>
